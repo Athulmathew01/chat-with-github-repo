@@ -37,7 +37,7 @@ chat-github-repo/
 │   │   └── repo_service.py
 │   ├── utils/               # Helper functions (e.g., file filter)
 │   │   └── file_utils.py
-│   └── config.py            # Environment & configuration loader
+│   └── .env          # Environment & configuration loader
 ├── repos/                   # Temp cloned repositories
 ├── requirements.txt         # Python dependencies
 ├── .gitignore               # Ignore .env, __pycache__, repos, etc.
@@ -92,6 +92,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use a
 
 ## 🙋‍♂️ Author
 
-**Athul** – Backend & AI Engineer  
-GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
+**Athul** – Backend-end Developer 
 ```
