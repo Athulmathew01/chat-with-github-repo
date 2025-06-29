@@ -4,3 +4,4 @@ repos/
 *.sqlite3
 *.log
 *.db
+chatenv/
